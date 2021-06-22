@@ -1,5 +1,6 @@
 # CelularesJava
-first project with java 
+It was my first project in Java using the database MySQL and netbeans as editor 
+
 | | |
 |:-------------------------:|:-------------------------:|
 |<img width="3000" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/ayelen3976/CelularesJava/blob/master/image1.png?raw=true">  ABM |  <img width="3000" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/ayelen3976/CelularesJava/blob/master/image2.png?raw=true"> Filter by Email|
