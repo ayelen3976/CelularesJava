@@ -1,5 +1,5 @@
 # CelularesJava
-It was my first project in Java using the database MySQL and netbeans as editor 
+It was my first project in Java using the database MySQL,  netbeans as editor and java swing styles to do the frames
 
 | | |
 |:-------------------------:|:-------------------------:|
